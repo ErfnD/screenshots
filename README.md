@@ -15,3 +15,5 @@ The `cv-mock-data` folder contains the revised portfolio screenshots. They use t
 ## Final A4 renders
 
 `cv-final/fibroscan-report-a4-300dpi.png` is a complete A4 export rendered from the supplied PDF at 300 DPI (2479 x 3508 pixels).
+
+`cv-final/patient-system-anonymized/` contains English-only Electronic Patient Record screenshots with fictional patient details for portfolio use.
