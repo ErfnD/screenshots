@@ -19,3 +19,5 @@ The `cv-mock-data` folder contains the revised portfolio screenshots. They use t
 `cv-final/patient-system-anonymized/` contains English-only Electronic Patient Record screenshots with fictional patient details for portfolio use.
 
 `cv-final/dental-school-scheduler-english.png` is the English-only Dental School Scheduler interface screenshot.
+
+`cv-final/dental-school-scheduler-export.xlsx` is the original Dental School Scheduler spreadsheet export.
